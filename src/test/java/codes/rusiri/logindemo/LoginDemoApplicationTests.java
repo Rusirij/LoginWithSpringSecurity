@@ -1,4 +1,4 @@
-package codes.rytis.logindemo;
+package codes.rusiri.logindemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

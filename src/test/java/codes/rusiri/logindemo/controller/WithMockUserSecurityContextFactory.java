@@ -1,4 +1,4 @@
-package codes.rytis.logindemo.controller;
+package codes.rusiri.logindemo.controller;
 
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.context.SecurityContext;

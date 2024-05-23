@@ -1,4 +1,4 @@
-package codes.rytis.logindemo.controller;
+package codes.rusiri.logindemo.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

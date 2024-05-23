@@ -1,4 +1,4 @@
-package codes.rytis.logindemo.controller;
+package codes.rusiri.logindemo.controller;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

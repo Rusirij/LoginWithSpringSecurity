@@ -1,4 +1,4 @@
-package codes.rytis.logindemo.controller;
+package codes.rusiri.logindemo.controller;
 
 import org.springframework.security.test.context.support.WithSecurityContext;
 
